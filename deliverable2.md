@@ -19,8 +19,7 @@ The simulated model can be accessed through this link: [https://wokwi.com/projec
 ### Physical Model
 | Model                                                                                                                                                                | Output |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| <img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 14 16 05" src="https://github.com/user-attachments/assets/2f55c85f-53d9-4978-901e-ca0710c7f066" /> | <img width="429" height="335" alt="WhatsApp Image 2026-06-30 at 20 59 16" src="https://github.com/user-attachments/assets/31272dfa-adfd-4916-9667-0394e5ad08de" />
- |
+| <img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 14 16 05" src="https://github.com/user-attachments/assets/2f55c85f-53d9-4978-901e-ca0710c7f066" /> | <img width="429" height="335" alt="WhatsApp Image 2026-06-30 at 20 59 16" src="https://github.com/user-attachments/assets/31272dfa-adfd-4916-9667-0394e5ad08de" /> |
 
 
 ## 1 ESP32S connected to 1 MQ-5 interfaced directly with another ESP32S connected to 1 DHT22
