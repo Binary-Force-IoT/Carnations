@@ -17,16 +17,19 @@ The simulated model can be accessed through this link: [https://wokwi.com/projec
 <img width="845" height="537" alt="image" src="https://github.com/user-attachments/assets/33e34746-455d-4659-8a0b-7111bfb961ab" />
 
 ### Physical Model
-<img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 14 16 05" src="https://github.com/user-attachments/assets/2f55c85f-53d9-4978-901e-ca0710c7f066" />
+| Model                                                                                                                                                                | Output |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| <img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 14 16 05" src="https://github.com/user-attachments/assets/2f55c85f-53d9-4978-901e-ca0710c7f066" /> | <img width="429" height="335" alt="WhatsApp Image 2026-06-30 at 20 59 16" src="https://github.com/user-attachments/assets/31272dfa-adfd-4916-9667-0394e5ad08de" />
+ |
 
 
 ## 1 ESP32S connected to 1 MQ-5 interfaced directly with another ESP32S connected to 1 DHT22
 ### Simulated Model
 The simulated model can be accessed through this link: [https://wokwi.com/projects/468252674612948993](https://wokwi.com/projects/468252674612948993)
 ### Physical Model
-<img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 13 38 17" src="https://github.com/user-attachments/assets/a2ace75d-9a3e-481d-bef6-0a6cf2eec27b" />
-
-
+| Model                                                                                                                                                                | Output |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| <img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 13 38 17" src="https://github.com/user-attachments/assets/dcaf5309-de52-43a9-803a-3444bc920fe3" /> | <img width="952" height="1075" alt="Screenshot 2026-06-30 131333" src="https://github.com/user-attachments/assets/41ff2873-abf2-49e1-9a00-8077a3574cb2" /> |
 
 
 ## 1 ESP32S connected to 1 DHT22 connected to 1 relay which is connected to another ESP32S connected to 1 MQ-5
