@@ -26,6 +26,8 @@ The simulated model can be accessed through this link: [https://wokwi.com/projec
 ## 1 ESP32S connected to 1 MQ-5 interfaced directly with another ESP32S connected to 1 DHT22
 ### Simulated Model
 The simulated model can be accessed through this link: [https://wokwi.com/projects/468252674612948993](https://wokwi.com/projects/468252674612948993)
+<img width="807" height="437" alt="image" src="https://github.com/user-attachments/assets/da7a8e56-79e8-4156-aae2-deeed94fa2eb" />
+
 ### Physical Model
 | Model                                                                                                                                                                | Output |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -34,4 +36,5 @@ The simulated model can be accessed through this link: [https://wokwi.com/projec
 
 ## 1 ESP32S connected to 1 DHT22 connected to 1 relay which is connected to another ESP32S connected to 1 MQ-5
 ### Simulated Model
-The simulated model can be accessed through this link:
+The simulated model can be accessed through this link: [https://wokwi.com/projects/468285049988409345](https://wokwi.com/projects/468285049988409345)
+<img width="646" height="516" alt="image" src="https://github.com/user-attachments/assets/c9e55c52-c3b0-4062-8cfa-8608b34cd349" />
